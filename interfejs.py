@@ -40,7 +40,7 @@ def uruchum_menu():
 
         elif wybor == "3":
             print("wybrano opcje 3")
-            # podstawowe_statystyki(dane)
+            podstawowe_statystyki(dane)
 
         elif wybor == "4":
             print("wybrano opcje 4")
